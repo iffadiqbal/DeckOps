@@ -1,5 +1,5 @@
 # DeckOps
-The future of all CRMS, ERMS, and ticketing systems. Made for small business', this will be a all-in-one place tool to server your backend needs as you move through your business. 
+The future of all CRMS, ERMS, and ticketing systems. Made for small business', this will be a all-in-one place tool to serve your backend needs as you move through your business. 
 
 The Deck is an enterprise-grade, offline-first field service operating system purpose-built for independent technical contractors. Bypassing the bloated, expensive features of traditional fleet-focused CRMs, it delivers a lean, high-performance dispatch, estimating, and billing engine. Architected on a decoupled stack using Netlify and Supabase, it provides a zero-latency experience for technicians in the field while maintaining strict, database-level security and seamless client-facing interactions.
 
