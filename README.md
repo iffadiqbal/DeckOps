@@ -10,7 +10,7 @@ Most field service CRMs are priced and designed for companies with fleets of tec
 
 ## How it was built
 
-I designed and directed DeckOps. Claude, Anthropic's AI, wrote the code. My part was the product and architecture decisions, deciding what each role is allowed to see and do, reviewing the changes, catching bugs, and testing on my iPhone. I did not hand-write this code. I'm learning to code now, and I'd rather say that plainly than have it implied otherwise.
+I built DeckOps using AI tools. Claude, Anthropic's AI, wrote the code. I handled the direction and the testing: the product and architecture decisions, what each role is allowed to see and do, reviewing changes, catching bugs, and testing on my iPhone.
 
 ## Architecture
 
